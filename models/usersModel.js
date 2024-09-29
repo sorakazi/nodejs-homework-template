@@ -1,5 +1,5 @@
 import { Schema, model } from "mongoose";
-import { subscribe } from "../app";
+
 const userSchema = new Schema(
   {
     password: {
