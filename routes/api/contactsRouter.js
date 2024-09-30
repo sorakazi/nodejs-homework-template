@@ -14,8 +14,8 @@ router.get("/:contactId", authenticateToken, ctrlWrapper(getContactById));
 
 /* POST: // http://localhost:3000/api/contacts/ 
 {
-    "name": "Marvin Pacis",
-    "email": "marvinpacis@example.com",
+    "name": "edmun argana",
+    "email": "edmun argana@example.com",
     "phone": "(639) 840-6611"
 } 
 */
